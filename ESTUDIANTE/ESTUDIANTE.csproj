@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <CSFile Include = "Estudiantes.cs"/>
+    <CSFile Include = "Docentes.cs"/>
+    <CSFile Include = "Notas.cs"/>
+    <CSFile Include = "Materias.cs"/>
+    <CSFile Include = "Campus.cs"/>
+  </PropertyGroup>
+
+</Project>
